@@ -9,11 +9,6 @@ This project implements a Frozen Lake Markov Decision Process (MDP) and applies 
 
 The environment is a stochastic 4×4 grid with slippery transitions.
 
-## Contents
-
-- `report/` – Final PDF report
-- `code/` – Python implementation
-- `outputs/` – Sample results (optional)
 
 ## Key Concepts
 
